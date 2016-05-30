@@ -1,6 +1,6 @@
 # bash-handbook [![CC 4.0][cc-image]][cc-url]
 
-이 문서는 Bash를 알기위해서 작성되었습니다 깊게 들어가지는 않습니다.
+이 문서는 Bash를 배우고 싶은 사람을 위해 작성되었지만 깊은 내용을 다루지는 않습니다.
 
 > **Tip**: [**learnyoubash**](https://git.io/learnyoubash) - 이 핸드북 내용에 대해서 interactive한 워크샵을 진행할 수 있습니다.
 
@@ -61,18 +61,18 @@ $ npm install -g bash-handbook
 
 # 소개
 
-당신이 개발자라면, 값진 시간이 될 것이다. 업무 프로세스를 최적화하는 것은 일을 진행하는데 있어서 가장 중요한 측면 중 하나입니다.
+당신이 개발자라면 시간이 얼마나 가치있는 자원인지 알고 있을 것입니다. 업무 프로세스를 최적화하는 것은 일을 진행하는데 있어서 가장 중요한 측면 중 하나입니다.
 
-몇번이고 반복해야하는 작업에대한 효율성과 생산성을 높이기위한 조치가 제기됩니다. 다음과 같이:
+다음과 같이 몇 번이고 반복해야하는 작업에서는 효율성과 생산성을 높이기 위한 방법이 필요합니다.
 
 * 서버에서 스크린샷을 찍거나 업로딩하는 경우
-* 많은 텍스트들을 보기 좋게하거나 폼에 맞추는 경우
+* 많은 텍스트들을 보기 좋게 만들거나 폼에 맞추는 경우
 * 파일을 다른 포맷으로 변경하는 경우
 * 프로그램에서 나오는 출력을 파싱하는 경우
 
-**Bash**는 우리의 구세주입니다!
+이런 작업에서는 **Bash**가 바로 우리의 구세주입니다!
 
-Bash [Bourne shell](https://en.wikipedia.org/wiki/Bourne_shell)을 대체할 GNU 프로젝트로 [Brain Fox][]의해 작성된Unix 셸입니다. 1989년에 릴리즈되었으며, Linux와 OS X에서 기본 셸로 오랫동안 사용되었습니다.
+Bash [Bourne shell](https://en.wikipedia.org/wiki/Bourne_shell)을 대체할 GNU 프로젝트로 [Brain Fox][]의해 작성된 Unix 셸입니다. 1989년에 릴리즈되었으며, Linux와 OS X에서 기본 셸로 오랫동안 사용되었습니다.
 
 [Brian Fox]: https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)
 <!-- link this format, because some MD processors handle '()' in URLs poorly -->
